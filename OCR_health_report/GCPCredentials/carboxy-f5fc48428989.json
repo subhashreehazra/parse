@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carboxy",
+  "private_key_id": "f5fc48428989c4596bee6c147c6b8d66d43d8088",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCcC/pdnAgWPSWz\n6UR+TyStGW1RO1FyvUru/NGA8owdc7PqH3en8NqMErb/dlp7kKuett7MKT800VbQ\njTcDZweCDtCl6m67faf9GlhpQuKq2Xjla0cP6lD6JkMnZAf8aNebunK+IL4gQx3q\nIAGdHRO/RVEod4tfx948dBK3/Hn3cPp2su6Hdmp73ORAta2K60+LeW9VkExgaZrY\n1hxi1skWVh0YYXSZTSDMlYoNaAOU3yWjB/kngrQPJwQNKIBGCS8rKZ2uof5kJM6X\nF58cDOnjdvefJumCnPqWUf+2nPm7b10rds639GyGUKJajj7T2ZQpq2fH8yewWoE9\nHNq0V0+NAgMBAAECggEAFEvKiJpewuW5Halda0BH+OuxuDsK4O2V7XecmDTz3HDM\nGct1+LXu9wEIJDn0ktXCPKZ0XAGRYwFHVWDIovynkVbz9GCFfoVdcCIZFbfJW4dl\nnhFR8NP9LEwFt/3evAm24V5ixi/kCrYwEd+P1iuOAfa2E5lY22BXm21Ncfi4tGId\nQXlBaChyAUFQvGANnq9ik5vTCOY17D1YVylLGzH0GiSGnrmuMlUB/YDYnDxf6DIe\n7GU/bqrf/b8ilmVTIgxSogGOvcEgLbDsqaiUcMfzpKLyhojd0a2QfPAt43C6pgVS\nr/70RBcB3A/IHPerVniqym+8AgblOSXqU3HnWUNqUQKBgQDZ9UoCG/0zgts1c2OQ\n5dR2OsZgWYLy/J6DmIm/bOyvbpuvhUUU4OAGrJJ1rKIgp3QeNKNYflh/X09WfBej\nyqpa2CkC1F6Cl4Je0X/+/evrgCHqeZTS/SxdpcnvELxGXFlVttRB9xryWlz6W76t\nXTk/GHoCUO2wAUcTKKPLI4/HHwKBgQC3SGRkY30795Xde3zRmcRH3cgfTPu5qV8T\nRYj2HQujUqgGZ35+WoHgBrMCNKe6qpBqlYz/NO2zKqScs8lWUGE2KU+g//0mD6J8\nbZ5o778S6a50S4zpZUNg6znGTE0d2Gtr2Ij0NxSkueXV+7GldgaGtVY0CbwW+hBS\nh26GhUiv0wKBgQCjIwqC66ooDRDAQB7NDIlq+PEUmsr9zoFi5CBuLDw3zuUuieS8\nDNkBhdeVxmIPaObr2OBOUzswEwmSJQ2Ypg++MT75BDW9L2QATnSsSih0O5KnKttu\n1NqJOZccnf0d+O9QzaivuyHrNiGTrmnY3wcDJ/Him+pcK4ikWW3HlVV/ZwKBgQCZ\nqeYRjKAYwNEzKi9SA9tebYE1TPPXizsdCzVzMpLpUYlyJR8WjIdK7hLzDHZ7uDjw\nQ4Y9CYEor93nS4zIAwgdwrDySO1TFdSjAbzIOgk2sBkFg7oWjEHbZhvAN4SIO0SE\n3LymE/AI05rwtt8P3E5IboxhgK/ji7BXoRh3TBPO5QKBgQCC2oVKpiSYDAnusd42\nKb362T4IzyfKNiRvQezPbRfOBscnKIsot3aVa9kpqWTUHF406653ntBFQWPZlGL4\nStnj8C3eWLM0RevAk6K2Syv6wgF7aQ1IeN5QJCYwuW0aN8bcSOYqVLgmcKm2/meY\nI9fTanK3gQaGJheaa/uGAGB/qA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "carboxy@carboxy.iam.gserviceaccount.com",
+  "client_id": "116882625561997397752",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/carboxy%40carboxy.iam.gserviceaccount.com"
+}
